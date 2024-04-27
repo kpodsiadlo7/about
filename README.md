@@ -1,6 +1,6 @@
 # Projektuję, Tworzę, Koduję
 Cześć! z tej strony Karol,
-jako  hobbystyczny twórca, zajmuję się głównie projektami aplikacji webowych w Javie, które znajdziesz tutaj jako moje portfolio. Nieustannie doskonalę swój kod, zgłębiam nowe techniki i implementuję poprawki. [Tutaj](https://kpodsiadlo7.github.io/) znajduje się moje portoflio ;)
+jako  hobbystyczny twórca, zajmuję się głównie projektami aplikacji webowych w Javie, które znajdziesz [Tutaj](https://kpodsiadlo7.github.io/) jako moje portfolio. Nieustannie doskonalę swój kod, zgłębiam nowe techniki i implementuję poprawki.
 #### 
 <img src="https://skillicons.dev/icons?i=cpp,unreal,rider,aws,gitlab,github,java,js,docker,mysql,html,css,idea">
 
