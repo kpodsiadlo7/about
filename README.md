@@ -3,7 +3,7 @@ Cześć! z tej strony Karol,
 jako  hobbystyczny twórca, zajmuję się głównie projektami aplikacji webowych w Javie, które znajdziesz tutaj jako moje portfolio. Dodatkowo, pracuję nad projektem multiplayerowej gry na silniku Unreal Engine, wykorzystując język C++. Projekt ten obecnie jest we wczesnej fazie. Pozatym [Moje Portfolio](https://kpodsiadlo7.github.io/) ;)
 
 ## Technology
-[![Technology](https://skills.thijs.gg/icons?i=java,js,cpp,mysql,unreal,rider,idea,gitlab,aws,docker&theme=light&perline=10)](https://github.com/kpodsiadlo7)
+<img src="https://skillicons.dev/icons?i=cpp,unreal,rider,aws,gitlab,github">
 
 
 ## Najnowszy projekt - [League of Legends Profile Search](https://kpodsiadlo7.github.io)
