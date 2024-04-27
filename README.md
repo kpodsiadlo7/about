@@ -6,6 +6,7 @@ jako  hobbystyczny twórca, zajmuję się głównie projektami aplikacji webowyc
 
 #
 ## Najnowszy projekt - [League of Legends Profile Search](https://kpodsiadlo7.github.io)
+Aplikacja, która umożliwia śledzenie graczy aktualnie uczestniczących w rozgrywce, przeglądanie profili i statystyk dowolnego gracza w League of Legends.
 <img src="https://raw.githubusercontent.com/kpodsiadlo7/LeagueProfileSearch/main/img/profile%20search.png" alt="LeagueProfileSearch">
 <img src="https://raw.githubusercontent.com/kpodsiadlo7/LeagueProfileSearch/main/img/active%20match.png" alt="LeagueProfileSearch">
 <img src="https://raw.githubusercontent.com/kpodsiadlo7/LeagueProfileSearch/main/img/recent%20match.png" alt="LeagueProfileSearch">
