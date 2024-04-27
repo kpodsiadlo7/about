@@ -9,4 +9,5 @@ jako  hobbystyczny twórca, zajmuję się głównie projektami aplikacji webowyc
 [![Tools](https://skills.thijs.gg/icons?i=unreal,rider,idea,gitlab,aws,docker&theme=light&perline=10)](https://github.com/kpodsiadlo7)
 
 # Najnowszy projekt - [League of Legends Profile Search](https://kpodsiadlo7.github.io)
-[LeagueProfileSearch](https://raw.githubusercontent.com/kpodsiadlo7/LeagueProfileSearch/main/img/profile%20search.png)
+<img src="https://raw.githubusercontent.com/kpodsiadlo7/LeagueProfileSearch/main/img/profile%20search.png" alt="LeagueProfileSearch">
+
