@@ -1,6 +1,6 @@
 # Projektuję, Tworzę, Koduję
 Cześć! z tej strony Karol,
-jako  hobbystyczny twórca, zajmuję się głównie projektami aplikacji webowych w Javie, które znajdziesz tutaj jako moje portfolio. Dodatkowo, pracuję nad projektem multiplayerowej gry na silniku Unreal Engine, wykorzystując język C++. Projekt ten obecnie jest we wczesnej fazie. Pozatym [Moje Portfolio](https://kpodsiadlo7.github.io/) ;)
+jako  hobbystyczny twórca, zajmuję się głównie projektami aplikacji webowych w Javie, które znajdziesz tutaj jako moje portfolio. Nieustannie doskonalę swój kod, zgłębiam nowe techniki i implementuję poprawki, aby zapewnić stały wzrost jakości. Pozatym [Moje Portfolio](https://kpodsiadlo7.github.io/) ;)
 #### 
 <img src="https://skillicons.dev/icons?i=cpp,unreal,rider,aws,gitlab,github,java,js,docker,mysql,html,css,idea">
 
