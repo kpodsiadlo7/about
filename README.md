@@ -10,4 +10,6 @@ jako  hobbystyczny twórca, zajmuję się głównie projektami aplikacji webowyc
 
 # Najnowszy projekt - [League of Legends Profile Search](https://kpodsiadlo7.github.io)
 <img src="https://raw.githubusercontent.com/kpodsiadlo7/LeagueProfileSearch/main/img/profile%20search.png" alt="LeagueProfileSearch">
+<img src="https://raw.githubusercontent.com/kpodsiadlo7/LeagueProfileSearch/main/img/active%20match.png" alt="LeagueProfileSearch">
+<img src="https://raw.githubusercontent.com/kpodsiadlo7/LeagueProfileSearch/main/img/recent%20match.png" alt="LeagueProfileSearch">
 
