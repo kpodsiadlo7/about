@@ -2,7 +2,7 @@
 Cześć! z tej strony Karol,
 jako  hobbystyczny twórca, zajmuję się głównie projektami aplikacji webowych w Javie, które znajdziesz [Tutaj](https://kpodsiadlo7.github.io/) jako moje portfolio. Nieustannie doskonalę swój kod, zgłębiam nowe techniki oraz implementuję poprawki.
 #### 
-[![](https://skillicons.dev/icons?i=aws,gitlab,java,js,docker,mysql,html,css,idea,kubernetes)](https://github.com/kpodsiadlo7)
+[![](https://skillicons.dev/icons?i=aws,gitlab,java,js,docker,mysql,mongodb,idea,kubernetes)](https://github.com/kpodsiadlo7)
 
 #
 ## Najnowszy projekt aplikacji webowej w javie - [League of Legends Profile Search](https://kpodsiadlo7.github.io/lolhome.html)
