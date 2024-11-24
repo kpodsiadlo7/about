@@ -2,7 +2,7 @@
 # O mnie
 
 Cześć! 👋
-#
+
 Nazywam się **Karol** i na co dzień pracuję jako **DevOps Engineer**. W wolnych chwilach rozwijam swoje pasje związane z programowaniem.
 Tworzę hobbystyczne projekty, które nie tylko sprawiają mi frajdę, ale także pozwalają poszerzać moje umiejętności.
 Zapraszam do zapoznania się z moim [Portfolio](https://kpodsiadlo7.github.io/) 😊.
