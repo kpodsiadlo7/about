@@ -3,7 +3,7 @@
 
 Cześć! 👋  
 Z tej strony **Karol**, jestem **DevOps Engineerem**, który w wolnym czasie realizuje swoje pasje jako hobbystyczny twórca.  
-Lubuje się w tworzeniu **aplikacji webowych** w języku **Java**, które znajdziesz [Tutaj](https://kpodsiadlo7.github.io/) jako moje portfolio. Stale doskonalę swój kod, zgłębiając najnowsze techniki i aktywnie wykorzystując zdobytą widzę w praktyce.
+Pasjonuję się tworzeniem **aplikacji webowych** w języku **Java**, które znajdziesz [Tutaj](https://kpodsiadlo7.github.io/) jako moje portfolio. Stale doskonalę swój kod, zgłębiając najnowsze techniki i aktywnie wykorzystując zdobytą widzę w praktyce.
 #### 
 [![](https://skillicons.dev/icons?i=aws,gitlab,java,js,docker,mysql,mongodb,idea,kubernetes,rabbitmq)](https://github.com/kpodsiadlo7)
 
